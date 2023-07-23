@@ -1,6 +1,6 @@
-FROM thejmthon/jmbot:slim-buster
+FROM E9N99/Smbot:slim-buster
 
-RUN git clone https://github.com/thejmthon/jmbot.git /root/jmrobot
+RUN git clone https://github.com/E9N99/Smbot.git /root/jmrobot
 
 WORKDIR /root/jmrobot
 
